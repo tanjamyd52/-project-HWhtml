@@ -7,10 +7,12 @@ header{
 }
 main{
     display: flex;
-}
+    }
 section{
     height: 20vh;
     width: 73vw;
+    color:white;
+    font-size:35px;
 }
 footer{
     height: 20vh;
@@ -18,16 +20,18 @@ footer{
    }
 .main__contents-content-1{
     background: #776969;
-}
+    }
 .main__contents-content-2{
     background: #643030;
-}
+    }
 .main__contents-content-3{
     background: #441818;
-}
+   }
 aside{
     height: 30vh;
     width: 27vw;
+    color:white;
+    font-size: 35px;
 }
 .main__spam-1{
     background: #937575;
